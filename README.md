@@ -12,9 +12,7 @@ com uma linguagem de programação que não tenho familiariedade é algo que faz
 
 # BMI Calculator
 
-Certainly! Here's the translation:
-
-"This was my first definitive step with React. You've probably seen enough BMI calculators, and I've certainly made my fair share of them. However, I wanted to put something new into
+This was my first definitive step with React. You've probably seen enough BMI calculators, and I've certainly made my fair share of them. However, I wanted to put something new into
 practice, so I chose this tried-and-true idea as my safety net for this new 'adventure. I built it entirely on my own, so if you have experience with React projects, you might cringe 
 when you see the architecture I used—based on the voices in my head.
 Nevertheless, I'm proud because I'm slowly returning to pursuing my dream of becoming a software developer. Completing a project in a stack I'm not very confident with and using a 
