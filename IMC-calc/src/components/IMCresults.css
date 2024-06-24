@@ -1,0 +1,43 @@
+.Results {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+}
+
+table {
+    margin-top: .5rem;
+}
+
+th {
+    padding-right: 1rem;
+    font-size: .8rem;
+    font-weight: bold;
+}
+
+td {
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 20px;
+    border: 1px solid;
+}
+
+.Results input {
+    margin-top: 1.5rem;
+    height: 2.5rem;
+    padding: .5rem;
+    border: none;
+    font-weight: bold;
+    background-color: #DE9668;
+}
+
+.overweight {
+    color: #e35454;
+}
+
+.normal {
+    color: #53d844;
+}
+
+.thinnes {
+    color: #e3e354;
+}
